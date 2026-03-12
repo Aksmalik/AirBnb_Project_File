@@ -305,3 +305,5 @@ The project includes multiple interactive dashboard views:
 •	Travel season insights
 
 These dashboards provide a comprehensive, visually engaging analysis of Airbnb market performance.
+
+Project Dashbord View : (https://github.com/Aksmalik/AirBnb_Project_File/blob/main/Airbnb%20Project%20PowerBI.pdf)
