@@ -1,0 +1,258 @@
+🎨 Dashboard Color Palette
+
+Airbnb-inspired warm coral tones with neutral greys and beige backgrounds.
+
+Color Purpose	Hex Code	Preview
+
+Primary Brand Color (Airbnb Coral)	#FF5A5F	🟥
+
+Light Coral / KPI Cards	#F25C5C	🟥
+
+Dark Coral / Highlight Bars	#E26A3C	🟧
+
+Light Orange / Gradient Bars	#D88A63	🟧
+
+Muted Orange	#E6A57E	🟧
+
+Sidebar Beige	#C4B6A9	🟫
+
+Light Grey Background	#EDEDED	⬜
+
+Dark Grey Buttons	#2E2E2E	⬛
+
+Soft Grey Text	#6B6B6B	◻️
+
+Light Grey Chart Bars	#CFCFCF	◽
+
+Teal Accent (titles/labels)	#4F7C85	🟦
+
+Palette Grouping
+
+Primary
+
+•	#FF5A5F
+
+•	#F25C5C
+
+Secondary
+
+•	#E26A3C
+
+•	#D88A63
+
+•	#E6A57E
+
+Neutral
+
+•	#C4B6A9
+
+•	#EDEDED
+
+•	#2E2E2E
+
+•	#CFCFCF
+
+Accent
+
+•	#4F7C85
+
+________________________________________
+🔤 Fonts Used
+
+The fonts appear to be:
+
+Primary Font
+
+Segoe UI
+
+This is the default Power BI font, commonly used for:
+
+•	Titles
+
+•	Axis labels
+
+•	KPI cards
+
+•	Slicers
+
+•	Buttons
+
+Font Hierarchy Used
+
+Element	Font Style	Approx Size
+
+Dashboard Title	Segoe UI Bold	32–40
+
+Section Titles	Segoe UI Semibold	18–22
+
+KPI Numbers	Segoe UI Bold	28–36
+
+Chart Labels	Segoe UI Regular	12–14
+
+Descriptions	Segoe UI Regular	11–13
+
+________________________________________
+📊 Types of Charts Used in the Dashboard
+
+1️⃣ KPI Cards
+
+Used for summary metrics.
+
+Examples:
+
+•	Total Listings
+
+•	Total Reviews
+
+•	Average Price
+
+•	Average Review Score
+
+Power BI Visual:
+
+Card Visual
+
+________________________________________
+2️⃣ Clustered Column Chart
+
+Used in:
+
+Price Range Booking Distribution
+
+Price buckets like:
+
+•	0–100
+
+•	100–200
+
+•	200–300
+
+•	etc.
+
+Chart Type:
+
+Clustered Column Chart
+
+________________________________________
+3️⃣ Donut Chart
+
+Used for Accommodation Type Distribution
+
+Categories:
+
+•	Entire place
+
+•	Private room
+
+•	Hotel room
+
+•	Shared room
+
+Chart Type:
+
+Donut Chart
+
+________________________________________
+4️⃣ Ranking Bar Chart (City Ratings)
+
+Used in the Rating Category page to compare cities.
+
+Cities:
+
+•	Mexico City
+
+•	Rio de Janeiro
+
+•	Cape Town
+
+•	New York
+
+•	etc.
+
+Chart Type:
+
+Clustered Column Chart
+
+________________________________________
+5️⃣ Seasonal Booking Chart
+
+Used in the Season Analysis page.
+
+Cities vs booking counts.
+
+Chart Type:
+
+Clustered Column Chart
+
+________________________________________
+6️⃣ Slicers
+
+Used for filtering data dynamically.
+
+Examples:
+
+•	Month slicer
+
+•	Year slicer
+
+•	Rating category slicer
+
+Power BI Visual:
+
+Slicer
+
+________________________________________
+7️⃣ Navigation Buttons
+
+Left sidebar navigation:
+
+•	Overview
+
+•	Season Analysis
+
+•	Rating Category
+
+•	Key Pointers
+
+Power BI Visual:
+
+Buttons with Page Navigation
+
+________________________________________
+📊 Dashboard Layout Components
+
+Component	Type
+
+Left Navigation Panel	Buttons
+
+KPI Metrics	Cards
+
+Price Analysis	Clustered Column Chart
+
+Accommodation Distribution	Donut Chart
+
+City Rating Comparison	Column Chart
+
+Seasonal Analysis	Column Chart
+
+Filters	Slicers
+
+________________________________________
+⭐ Design Style Observations
+
+Your dashboard follows modern BI design principles:
+
+✔ Sidebar navigation
+
+✔ KPI cards at top
+
+✔ Neutral background
+
+✔ Warm color palette
+
+✔ Highlighted insights
+
+✔ Minimal clutter
+
+✔ Good visual hierarchy
+
